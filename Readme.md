@@ -150,13 +150,16 @@ router ospf 1
 
 ⸻
 
-## 📸 Screenshots
+## 📸 Screenshots & Diagrams
 
 ![Structure](images/structure.jpg)
 ![Main Building](images/main_building.jpg)
 ![DHCP & Internet](images/IPs.jpg)
 ![ACL](images/ACL.jpg)
 ![ACL](images/ACL2.jpg)
+![first fllor](images/floor_1.png)
+![full network ](images/full.png)
+![workshop building](images/workshop.png)
 
 ⸻
 
