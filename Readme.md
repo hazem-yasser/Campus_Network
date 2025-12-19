@@ -107,6 +107,17 @@ Protect sensitive **VIP VLANs (`9`, `14`, `28`)** from unauthorized internal acc
   Uses Google Public DNS (`8.8.8.8`) for external resolution
 
 ---
+### 4️⃣ Secure Remote Management (SSH)
+Secure Shell (SSH) has been configured on the **4 core network devices** (Routers & Multilayer Switches) to enable encrypted remote management, replacing insecure Telnet connections.
+
+**Credentials for Access:**
+| Parameter | Value |
+| :--- | :--- |
+| **Protocol** | SSH v2 |
+| **Password** | `AdminPass123` |
+
+---
+
 
 ## 🛠️ Configuration Highlights
 
@@ -184,4 +195,5 @@ router ospf 1
 - ***Electronics & Communications Engineering Student***
 - ***Suez Canal University***
 - ***Student ID: 211600109***
+
 
